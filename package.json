@@ -1,0 +1,15 @@
+{
+  "name": "postman-express",
+  "version": "1.0.0",
+  "description": "Quick and easy setup a local Postman-collection based mock server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mligas",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
